@@ -1,6 +1,5 @@
 # VISHNU VARDHAN REDDY GANGIREDDY
-![Headshot](link_to_your_headshot_image) <!-- Remember to replace with the actual link to your headshot -->
-
+![Headshot](https://github.com/vishnu-50213/UMBC-DATA606-FALL2023-MONDAY/blob/main/NH7A9728.JPG) 
 
 ## Contact Information
 416 N Orchard St, Downingtown, PA, 19335 | 484(782)-9399  
