@@ -6,7 +6,7 @@
 vishnuken49@gmail.com | [GitHub](https://github.com/vishnu-50213)
 
 ## Summary
-Diligent and adaptable data enthusiast seeking challenging data science roles. Eager to leverage strong work ethic and analytical skills to contribute effectively to data-driven projects, while continually expanding expertise in a dynamic and collaborative environment.
+Eager to leverage strong work ethic and analytical skills to contribute effectively to data-driven projects, while continually expanding expertise in a dynamic and collaborative environment.
 
 ## EDUCATION
 
@@ -50,3 +50,6 @@ Spring 2023
 - Database Management
 - Deep Learning
 - Big Data Management Using Spark
+
+## Personal Interests
+In my free time, I enjoy Reading, Sports, Listening to music, Art.
