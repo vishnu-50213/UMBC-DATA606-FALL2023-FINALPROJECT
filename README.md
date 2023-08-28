@@ -52,4 +52,5 @@ Spring 2023
 - Big Data Management Using Spark
 
 ## Personal Interests
-In my free time, I enjoy Reading, Sports, Listening to music, Art.
+
+ - In my free time, I enjoy Reading, Sports, Listening to music, Art.
