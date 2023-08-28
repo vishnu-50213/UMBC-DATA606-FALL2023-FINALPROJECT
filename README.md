@@ -3,7 +3,7 @@
 
 ## Contact Information
 416 N Orchard St, Downingtown, PA, 19335 | 484(782)-9399  
-vishnuken49@gmail.com | [GitHub](https://github.com/vishnu-50213)
+vishnuken49@gmail.com | [GitHub](https://github.com/vishnu-50213) | [LinkedIn](https://www.linkedin.com/in/vishnu-vardhan-reddy-gangireddy-60226b235/)
 
 ## Summary
 Eager to leverage strong work ethic and analytical skills to contribute effectively to data-driven projects, while continually expanding expertise in a dynamic and collaborative environment.
